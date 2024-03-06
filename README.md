@@ -1,4 +1,4 @@
-#"NFTVortex: Unleashing Digital Collectibles" 
+# "NFTVortex: Unleashing Digital Collectibles" 
 This is an individual project developed while learning React and SASS.
 
 ### do not forget to execute code below first
